@@ -1,5 +1,97 @@
-✅ Cleaned and preprocessed a festive sales dataset of 11,251 records with missing values using Pandas, ensuring data quality for analysis.
+# 🎯 Project: Festive Sales Data Analysis
 
-✅ Performed exploratory data analysis (EDA) and visualizations with Seaborn in Jupyter Notebook, identifying purchasing patterns among married women aged 26–35 in Uttar Pradesh, Maharashtra, and Karnataka, particularly in Food, Clothing, and Electronics categories.
+## 🟩 Project Overview
+### Title: Festive Sales Analysis Using Python
+#### Objective:
+- Understand customer behavior during festive seasons
 
-✅ Derived insights into consumer behavior across IT, Healthcare, and Aviation sectors, informing potential marketing strategies during festive seasons.
+
+- Identify top-performing customer segments, products, and regions
+
+
+- Support marketing and inventory decisions
+
+
+#### Dataset:
+- Kaggle dataset
+
+
+- 11,251 records
+
+
+#### Tools Used:
+- Python (Pandas, Seaborn)
+
+
+- Jupyter Notebook
+
+
+
+## 🟩 Slide 2: Data Cleaning & Preparation
+### Steps Taken:
+- Dropped irrelevant columns
+
+
+- Removed rows with missing values
+
+
+- Renamed columns for clarity
+
+
+- Changed column data types (e.g., date fields, numeric values)
+
+
+Result:
+ → Cleaned dataset ready for analysis
+ → Improved data quality and consistency
+
+## 🟩 Slide 3: Exploratory Data Analysis (EDA)
+### Key Visualizations:
+- Gender vs Order Count
+
+
+- Age Group vs Purchase Volume
+
+
+- State-wise Sales Distribution
+
+
+- Product Category vs Revenue
+
+
+- Occupation-wise Customer Behavior
+
+
+### Techniques Used:
+- `GroupBy` aggregation
+
+
+- `Seaborn` bar plots and count plots
+
+
+
+## 🟩 Slide 4: Key Insights
+- ✅ Married women aged 26–35 are the top buyers
+- ✅ Top-performing states: Maharashtra, Uttar Pradesh, Karnataka
+- ✅ Popular categories: Electronics, Clothing, Food
+- ✅ High engagement from IT and Healthcare professionals
+
+## 🟩 Slide 5: Business Impact
+### How These Insights Help:
+- Targeted campaigns for high-value customer segments
+
+
+- Optimize inventory for popular products
+
+
+- Plan location-specific festive promotions
+
+
+- Adjust marketing focus based on occupation and region
+
+
+
+## 🟩 Slide 6: Learnings
+📌 `Improved` my ability to clean, explore, and communicate data
+ 📌 `Learned` how to translate data into real-world business insights
+ 📌 `Gained confidence` in using Python for full-cycle analysis
