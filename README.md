@@ -27,7 +27,7 @@
 
 
 
-## 🟩 Slide 2: Data Cleaning & Preparation
+## 🟩 Data Cleaning & Preparation
 ### Steps Taken:
 - Dropped irrelevant columns
 
@@ -45,7 +45,7 @@ Result:
  → Cleaned dataset ready for analysis
  → Improved data quality and consistency
 
-## 🟩 Slide 3: Exploratory Data Analysis (EDA)
+## 🟩 Exploratory Data Analysis (EDA)
 ### Key Visualizations:
 - Gender vs Order Count
 
@@ -70,13 +70,13 @@ Result:
 
 
 
-## 🟩 Slide 4: Key Insights
+## 🟩 Key Insights
 - ✅ Married women aged 26–35 are the top buyers
 - ✅ Top-performing states: Maharashtra, Uttar Pradesh, Karnataka
 - ✅ Popular categories: Electronics, Clothing, Food
 - ✅ High engagement from IT and Healthcare professionals
 
-## 🟩 Slide 5: Business Impact
+## 🟩 Business Impact
 ### How These Insights Help:
 - Targeted campaigns for high-value customer segments
 
@@ -93,5 +93,7 @@ Result:
 
 ## 🟩 Slide 6: Learnings
 📌 `Improved` my ability to clean, explore, and communicate data
+
  📌 `Learned` how to translate data into real-world business insights
+ 
  📌 `Gained confidence` in using Python for full-cycle analysis
