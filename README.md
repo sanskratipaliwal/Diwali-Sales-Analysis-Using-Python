@@ -1,4 +1,4 @@
-# 🎯 Project: Festive Sales Data Analysis
+# 🎯 Project: Diwali Sales Data Analysis
 
 ## 🟩 Project Overview
 ### Title: Festive Sales Analysis Using Python
@@ -71,10 +71,10 @@ Result:
 
 
 ## 🟩 Key Insights
-- ✅ Married women aged 26–35 are the top buyers
+- ✅ Married women aged 26–35 are the `top buyers`
 - ✅ Top-performing states: Maharashtra, Uttar Pradesh, Karnataka
 - ✅ Popular categories: Electronics, Clothing, Food
-- ✅ High engagement from IT and Healthcare professionals
+- ✅ High engagement from `IT and Healthcare professionals`
 
 ## 🟩 Business Impact
 ### How These Insights Help:
