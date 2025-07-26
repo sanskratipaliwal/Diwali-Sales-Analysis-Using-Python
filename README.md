@@ -97,3 +97,5 @@ Result:
  📌 `Learned` how to translate data into real-world business insights
  
  📌 `Gained confidence` in using Python for full-cycle analysis
+
+ **Thank You! Have a great Day.**
