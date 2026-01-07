@@ -91,7 +91,7 @@ Result:
 
 
 
-## 🟩 Slide 6: Learnings
+## 🟩 Learnings
 📌 `Improved` my ability to clean, explore, and communicate data
 
  📌 `Learned` how to translate data into real-world business insights
